@@ -109,7 +109,7 @@ function createArticle(title, date, firstParagraph, secondParagraph, thirdParagr
   artDate.classList.add("date");
   exButton.classList.add("expandButton");
   
-  articles.textContent = articles;
+  
   exButton.textContent = "open";
   artTitle.textContent = title;
   artDate.textContent = date;
